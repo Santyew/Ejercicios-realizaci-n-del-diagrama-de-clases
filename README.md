@@ -1,7 +1,7 @@
 # Ejercicios-realizaci-n-del-diagrama-de-clases
 ## Ejercicio 1: Sistema de Reservas de Hoteles
 
-<img src="img/Sistemas Reservas de hoteles.drawio.png"> 
+<img src="Sistemas Reservas de hoteles.drawio.png"> 
 
 ### Cliente
 
@@ -378,7 +378,7 @@ public class Reserva {
 
 ## Sistema A
 
-<img src="img/Sistemas de Gestión de Bibliotecas.drawio.png"> 
+<img src="Sistemas de Gestión de Bibliotecas.drawio.png"> 
 
 ### Libro 
 
@@ -942,7 +942,7 @@ public class Bibliotecario {
 
 ## Sistema B
 
-<img src="img/Sistema de Gestión de Bibliotecas pt 2.drawio.png">
+<img src="Sistema de Gestión de Bibliotecas pt 2.drawio.png">
 
 ### Sala de lectura
 
