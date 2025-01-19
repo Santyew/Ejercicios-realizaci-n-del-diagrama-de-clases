@@ -3,8 +3,6 @@
 
 <img src="Sistemas Reservas de hoteles.drawio.png"> 
 
-<img src="Diagrama de paquete Hotel.drawio.png"> 
-
 ### Cliente
 
 ```java
