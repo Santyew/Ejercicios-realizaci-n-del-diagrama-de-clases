@@ -380,6 +380,7 @@ public class Reserva {
 ## Sistema A
 
 <img src="Sistemas de Gestión de Bibliotecas.drawio.png"> 
+<img src="Diagrama paquete Biblioteca.drawio.png"> 
 
 ### Libro 
 
